@@ -1,0 +1,12 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="MainWindow">ပြင်ပစာမျက်နှာ</system:String>
+    <system:String x:Key="Monday">တနင်္လာ</system:String>
+    <system:String x:Key="Tuesday">အင်္ဂါ</system:String>
+    
+    <system:String x:Key="ChooseLanguage">ဘာသာစကား ရွေးချယ်ရန်</system:String>
+    <system:String x:Key="English">အင်္ဂလိပ်</system:String>
+    <system:String x:Key="Myanmar">မြန်မာ</system:String>
+    <system:String x:Key="Korea">ကိုရီးယား</system:String>
+</ResourceDictionary>
